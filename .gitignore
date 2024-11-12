@@ -1,0 +1,13 @@
+# Standard files to ignore
+
+# Files created by R
+*.Rhistory
+.RData
+
+# Files created by macOS
+.DS_Store
+
+# Files created by Quarto
+/.quarto/
+/_site/
+
